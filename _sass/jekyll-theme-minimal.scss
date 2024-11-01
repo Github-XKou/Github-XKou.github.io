@@ -60,11 +60,6 @@ a:hover small {
   margin:0 auto;
 }
 
-.diywrapper {
-  width:100%;
-  margin:0 auto;
-}
-
 blockquote {
   border-left:1px solid #e5e5e5;
   margin:0;
@@ -214,6 +209,11 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
 }
+
+div.diywrapper {
+    width:auto;
+    margin:0;
+  }
 
 @media print, screen and (max-width: 960px) {
 
