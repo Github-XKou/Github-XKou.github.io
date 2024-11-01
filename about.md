@@ -20,13 +20,14 @@ title: CV
 
 <li>
 <p>He also serves as a reviewer for several referred journals and conferences.</p>
+</ul>
 <h2>Research Interests</h2>
 <ul>
 <li>Deep Learning</li>
 <li>Medical Image Analysis</li>
 <li>Computed Tomogaphy</li>
-
-<h2>Publication</h2>
+</ul>
+<h2>Publications</h2>
 
 [1]Kou X, Yang Y, Xue H, et al. Revealing In Vivo Broiler Chicken Growth State: Integrating CT Imaging and Deep Learning for Non-Invasive Reproductive Phenotypic Measurement[J]. Computers and Electronics in Agriculture, 2024. 
 
