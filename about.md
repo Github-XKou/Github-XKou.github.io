@@ -2,6 +2,7 @@
 layout: cv
 title: CV
 ---
+<section>
 # Xupeng Kou's CV
 
 <a href="https://github.com/Github-XKou"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="20px" height="20px"> Github</a>
@@ -35,3 +36,4 @@ title: CV
 <p>[2]Kou X, Tang Z, Feng H, et al. FDTR: Weakening feature disparity transformer for accurate multicategory computed tomography image segmentation[J]. Expert Systems with Applications, 2024, 236: 121297.</p>
 
 <p>[3]Kou X, Liu S, Cheng K, et al. Development of a YOLO-V3-based model for detecting defects on steel strip surface[J]. Measurement, 2021, 182: 109454.</p>
+</section>
