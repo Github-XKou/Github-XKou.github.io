@@ -211,9 +211,9 @@ footer {
 }
 
 div.diywrapper {
-    width:480px;
+    width:auto;
     margin:0;
-    align:left;
+    text-align:left;
   }
 
 @media print, screen and (max-width: 960px) {
