@@ -1,5 +1,6 @@
 ---
 layout: cv
+Title: CV
 ---
 # Xupeng Kou's CV
 
