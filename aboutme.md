@@ -1,6 +1,5 @@
 ---
-layout: default
-title: About
+title: Xupeng Kou's CV
 ---
 
 # About page
