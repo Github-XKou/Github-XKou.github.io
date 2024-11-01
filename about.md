@@ -3,7 +3,6 @@ layout: cv
 title: CV
 ---
 # Xupeng Kou's CV
-<header>
 
 <a href="https://github.com/Github-XKou"><img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="20px" height="20px"> Github</a>
 <a href="https://orcid.org/0000-0002-3246-6820"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="20px" height="20px"> ORCID</a>
@@ -28,5 +27,5 @@ title: CV
 <li>Medical Image Analysis</li>
 <li>Computed Tomogaphy</li>
 
-</header>
+
 </div>
