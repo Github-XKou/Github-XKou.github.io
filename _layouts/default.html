@@ -21,7 +21,11 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-        {% include navigation.html%}
+        <nav>
+          {% for item in site.data.navigation %}
+            <a href="{{ item.link }}"{% if page.url == item.link %} class="current"{% endif %}>{{ item.name }}</a>
+          {% endfor %}
+        </nav>
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% if site.github.is_project_page %}
