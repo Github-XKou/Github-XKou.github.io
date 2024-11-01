@@ -1,6 +1,6 @@
 title: Xupeng Kou's homepage
 logo: /assets/img/logo.png
 description: Self-build pages for my blogs and projects updates!
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
