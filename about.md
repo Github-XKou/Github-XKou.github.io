@@ -9,10 +9,7 @@ title: CV
 <a href="https://scholar.google.com/citations?user=tDQGkQMAAAAJ&hl=zh-CN"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" width="20px" height="20px"> Google Scholar</a>
 
 
-<header>
-
-</header>
-     <h2>Education</h2>
+## Education
 <ul>
 <li>
 <p><strong>Ph.D. in Computer Science & Technology</strong>, China Agricultural University , Beijing, China, 2025 (expected)</p>
