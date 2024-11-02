@@ -9,7 +9,9 @@ title: CV
 <a href="https://orcid.org/0000-0002-3246-6820"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="20px" height="20px"> ORCID</a>
 <a href="https://scholar.google.com/citations?user=tDQGkQMAAAAJ&hl=zh-CN"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Google_Scholar_logo.svg/240px-Google_Scholar_logo.svg.png" width="20px" height="20px"> Google Scholar</a>
 </header>
+
 <section>
+{{
 <h2>About Me</h2>
 <ul>
 <li>
@@ -36,4 +38,5 @@ title: CV
 <li><b>Kou X,</b> Liu S, Cheng K, et al. Development of a YOLO-V3-based model for detecting defects on steel strip surface[J]. Measurement, 2021, 182: 109454. </li>
 
 <li><b>Kou X,</b> He Y, Qian Y. An improvement and application of a model conducive to productivity optimization[C]//2021 IEEE International Conference on Power Electronics, Computer Applications (ICPECA). IEEE, 2021: 1050-1053. </li>
+}}
 </section>
