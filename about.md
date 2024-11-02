@@ -30,12 +30,12 @@ title: CV
 </ul>
 <h2>Publications</h2>
 <ol>
-<li> Kou X, Yang Y, Xue H, et al. Revealing In Vivo Broiler Chicken Growth State: Integrating CT Imaging and Deep Learning for Non-Invasive Reproductive Phenotypic Measurement[J]. Computers and Electronics in Agriculture, 2024. </li>
+<li> <b>Kou X,</b> Yang Y, Xue H, et al. Revealing In Vivo Broiler Chicken Growth State: Integrating CT Imaging and Deep Learning for Non-Invasive Reproductive Phenotypic Measurement[J]. Computers and Electronics in Agriculture, 2024. </li>
 
-<li>Kou X, Tang Z, Feng H, et al. FDTR: Weakening feature disparity transformer for accurate multicategory computed tomography image segmentation[J]. Expert Systems with Applications, 2024, 236: 121297. </li>
+<li><b>Kou X,</b> Tang Z, Feng H, et al. FDTR: Weakening feature disparity transformer for accurate multicategory computed tomography image segmentation[J]. Expert Systems with Applications, 2024, 236: 121297. </li>
 
-<li>Kou X, Xue H, Yang Y, et al. A Hounsfiled Unit Grayscale Adaptive Segmentation Network for Kidney Tumor Surgery[C]//2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2023: 4913-4915.</li>
+<li><b>Kou X,</b> Xue H, Yang Y, et al. A Hounsfiled Unit Grayscale Adaptive Segmentation Network for Kidney Tumor Surgery[C]//2023 IEEE International Conference on Bioinformatics and Biomedicine (BIBM). IEEE, 2023: 4913-4915.</li>
 
-<li>Kou X, Liu S, Cheng K, et al. Development of a YOLO-V3-based model for detecting defects on steel strip surface[J]. Measurement, 2021, 182: 109454. </li>
+<li><b>Kou X,</b> Liu S, Cheng K, et al. Development of a YOLO-V3-based model for detecting defects on steel strip surface[J]. Measurement, 2021, 182: 109454. </li>
 
-<li>Kou X, He Y, Qian Y. An improvement and application of a model conducive to productivity optimization[C]//2021 IEEE International Conference on Power Electronics, Computer Applications (ICPECA). IEEE, 2021: 1050-1053. 
+<li><b>Kou X,</b> He Y, Qian Y. An improvement and application of a model conducive to productivity optimization[C]//2021 IEEE International Conference on Power Electronics, Computer Applications (ICPECA). IEEE, 2021: 1050-1053. 
