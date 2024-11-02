@@ -14,20 +14,15 @@ title: CV
 <p><strong>Ph.D. in Computer Science & Technology</strong>, China Agricultural University , Beijing, China, 2025 (expected)</p></li>
 
 <li>
-<p>His research interests include spatio-temporal data mining, geographic information, Intelligent Traffic System and urban computing.</p></li>
+<p>My research interests include Poetrait Segmentation, Amodal Completion, Amodal Segmentation, and Medical Image Segmentation, Object Detection and Hyperspectral Image Analysis</p></li>
 <li>
-<p>He has published some papers in refereed journals and conferences, such as TKDD, SIGSpatial, KBS, Applied Intelligence, and so on.</p></li>
+<p>I have published some papers in refereed journals and conferences, such as COMPAG, ESWA, Measurement, and so on.</p></li>
 
 <li>
-<p>He also serves as a reviewer for several referred journals and conferences.</p></li>
+<p>I also serve as a reviewer for several referred journals and conferences.</p></li>
 </ul>
 
-<h2>Research Interests</h2>
-<ul>
-<li>Deep Learning</li>
-<li>Medical Image Analysis</li>
-<li>Computed Tomogaphy</li>
-</ul>
+
 <h2>Publications</h2>
 <ol>
 <li> <b>Kou X,</b> Yang Y, Xue H, et al. Revealing In Vivo Broiler Chicken Growth State: Integrating CT Imaging and Deep Learning for Non-Invasive Reproductive Phenotypic Measurement[J]. Computers and Electronics in Agriculture, 2024. </li>
