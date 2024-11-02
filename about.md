@@ -30,8 +30,8 @@ title: CV
 </ul>
 <h2>Publications</h2>
 
-[1]Kou X, Yang Y, Xue H, et al. Revealing In Vivo Broiler Chicken Growth State: Integrating CT Imaging and Deep Learning for Non-Invasive Reproductive Phenotypic Measurement[J]. Computers and Electronics in Agriculture, 2024. 
+[1] Kou X, Yang Y, Xue H, et al. Revealing In Vivo Broiler Chicken Growth State: Integrating CT Imaging and Deep Learning for Non-Invasive Reproductive Phenotypic Measurement[J]. Computers and Electronics in Agriculture, 2024. 
 
-<p>[2]Kou X, Tang Z, Feng H, et al. FDTR: Weakening feature disparity transformer for accurate multicategory computed tomography image segmentation[J]. Expert Systems with Applications, 2024, 236: 121297.</p>
+[2]Kou X, Tang Z, Feng H, et al. FDTR: Weakening feature disparity transformer for accurate multicategory computed tomography image segmentation[J]. Expert Systems with Applications, 2024, 236: 121297.
 
-<p>[3]Kou X, Liu S, Cheng K, et al. Development of a YOLO-V3-based model for detecting defects on steel strip surface[J]. Measurement, 2021, 182: 109454.</p>
+[3]Kou X, Liu S, Cheng K, et al. Development of a YOLO-V3-based model for detecting defects on steel strip surface[J]. Measurement, 2021, 182: 109454.
